@@ -1,0 +1,117 @@
+{
+    "~": {
+        "$": "~",
+        "_": 0,
+        "Documents": {
+            "$": "Documents",
+            "_": 0,
+            "TSDW": {
+                "$": "TSDW",
+                "_": 0,
+                "c": {
+                    "$": "c"
+    
+                },
+                "java": {
+                    "$": "java",
+                    "_": 0,
+                    "Spring-boot": {
+                        "$": "Spring-boot"
+    
+                    }
+                },
+                "php": {
+                    "$": "php",
+                    "_": 0,
+                    "laravel": {
+                        "$": "laravel",
+                        "_": 0
+    
+                    }
+                }
+            },
+            "HTML": {
+                "$": "HTML",
+                "_": 0,
+                "WEB-2024": {
+                    "$": "WEB-2024",
+                    "_": 0,
+                    "esercizio_1": {
+                        "$": "esercizio_1",
+                        "_": 0,
+                        "index.html": {
+                            "type": "file",
+                            "_": 0,
+                            "content": "<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<meta $=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<title>Document</title>\n</head>\n<body>\n</body>\n</html>"
+                        }
+                    },
+                    "esercizio_2": {
+                        "$": "esercizio_2",
+                        "_": 0,
+                        "index.html": {
+                            "type": "file",
+                            "_": 0,
+                            "content": ""
+                        }
+                    },
+                    "esercizio_3": {
+                        "$": "esercizio_3",
+                        "_": 0,
+                        "index.html": {
+                            "type": "file",
+                            "_": 0,
+                            "content": ""
+                        }
+                    },
+                    "esercizio_4": {
+                        "$": "esercizio_4",
+                        "_": 0,
+                        "index.html": {
+                            "type": "file",
+                            "_": 0,
+                            "content": ""
+                        },
+                        "style.css": {
+                            "type": "file",
+                            "_": 0,
+                            "content": ""
+                        }
+                    },
+                    "esercizio_5": {
+                        "$": "esercizio_5",
+                        "_": 0,
+                        "index.html": {
+                            "type": "file",
+                            "_": 0,
+                            "content": ""
+                        },
+                        "script.js": {
+                            "type": "file",
+                            "_": 0,
+                            "content": ""
+                        },
+                        "style.css": {
+                            "type": "file",
+                            "_": 0,
+                            "content": ""
+                        }
+                    }
+                }
+            },
+            "Blender": {
+                "$": "Blender",
+                "_": 0
+    
+            },
+            "hello_world.c": {
+                "type": "file",
+                "_": 0,
+                "content": "#include<stdio.h> int main() {printf(\"Hello World\"); return 0;}"
+            } 
+        },
+        "Downloads": {
+            "$": "Downloads",
+            "_": 0
+        }
+    }
+}
